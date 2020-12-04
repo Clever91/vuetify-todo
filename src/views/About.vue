@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about pa-5">
+    <h1>About Vuetify Page</h1>
   </div>
 </template>
